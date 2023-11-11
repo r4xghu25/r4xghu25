@@ -1,1 +1,1 @@
-<h1 style="color: red;">Hello There👋</h1>
+<h1>Hello There👋</h1>
