@@ -1,5 +1,5 @@
 # About Me:
-I don't know shit about coding but i'm trying to learn it.
+I don’t know shit about coding, but I’m trying to learn it.
 
 
 # Tech Stack:
